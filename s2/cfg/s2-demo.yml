@@ -1,0 +1,31 @@
+plumes:
+    - name: Hassi_Messaoud
+      event_date: 2019-11-20
+      reference_date: 2019-10-06  
+      area: 2
+      latitude: 31.6585
+      longitude: 5.9053
+    - name: Korpezhe_1
+      event_date: 2020-10-11
+      reference_date: 2020-08-02
+      area: 2
+      latitude: 38.4939 
+      longitude: 54.1977     
+    - name: Korpezhe_2
+      event_date: 2018-06-29
+      reference_date: 2018-05-20
+      area: 3
+      latitude: 38.4939 
+      longitude: 54.1977           
+    - name: Permian_Basin_1
+      event_date: 2020-07-11
+      reference_date: 2020-05-01      
+      area: 4
+      latitude: 31.7335 
+      longitude: -102.0421
+    - name: Permian_Basin_2
+      event_date: 2020-07-16
+      reference_date: 2020-05-01      
+      area: 4
+      latitude: 31.7335 
+      longitude: -102.0421
